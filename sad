@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>صندوق دردشة Twitch مخصص</title>
+  <style>
+   
+    }
+  </style>
+</head>
+<body>
+  <!-- صندوق الدردشة المخصص -->
+  <div class="chat-box">
+    <!-- تضمين دردشة Twitch -->
+    <iframe
+      src="https://www.twitch.tv/embed/YOUR_1ISad/chat?parent=YOUR_DOMAIN"
+      scrolling="no">
+    </iframe>
+  </div>
+</body>
+</html>
